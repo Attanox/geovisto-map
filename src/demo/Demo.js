@@ -29,12 +29,16 @@ import FiltersManager from '../tools/filters/model/generic/FiltersManager';
 import 'font-awesome/css/font-awesome.min.css';
 import './Demo.scss';
 
-import Polygons from '../../static/geo/country_polygons.json'
-import Centroids from '../../static/geo/country_centroids.json'
-import JsonDataDemo1 from '../../static/data/demo1.json'
-import JsonDataDemo2 from '../../static/data/demo2.json'
-import JsonConfig from '../../static/config/config.json'
-import GeojsonConfig from '../../static/geo/map.json'
+import Polygons from '../../static/geo/country_polygons.json';
+import Centroids from '../../static/geo/country_centroids.json';
+import JsonConfig from '../../static/config/config.json';
+import GeojsonConfig from '../../static/geo/map.json';
+
+import JsonDataDemo1 from '../../static/data/demo1.json';
+import JsonDataDemo2 from '../../static/data/demo2.json';
+import VaccinationData from '../../static/data/covidSlovakRegions.json';
+import FloorPlanData from '../../static/data/floor-plan-data.json';
+import NetworkData from '../../static/data/network-data.json';
 
 /* example of screen component with grid layout and card wrapper usage */
 
@@ -45,10 +49,10 @@ const C_ID_check_config = 'leaflet-combined-map-check-config';
 const C_ID_input_config = 'leaflet-combined-map-input-config';
 const C_ID_check_geojson = 'leaflet-combined-map-check-geojson';
 const C_ID_input_geojson = 'leaflet-combined-map-input-geojson';
+const C_ID_check_choropleth = 'leaflet-combined-map-check-choropleth';
+const C_ID_input_choropleth = 'leaflet-combined-map-input-choropleth';
 const C_ID_input_import = 'leaflet-combined-map-input-import';
 const C_ID_input_export = 'leaflet-combined-map-input-export';
-
-const PREFIX = '../..'
 
 class Demo extends Component {
   constructor(props) {
@@ -112,6 +116,13 @@ class Demo extends Component {
     document.getElementById(C_ID_input_geojson).setAttribute('disabled', 'disabled');
     document.getElementById(C_ID_check_geojson).onchange = enableGeojsonInput;
 
+    // enable choropleth check box
+    const enableChoroplethInput = function (e) {
+      enableInput(e.target.checked, C_ID_input_choropleth);
+    };
+    document.getElementById(C_ID_input_choropleth).setAttribute('disabled', 'disabled');
+    document.getElementById(C_ID_check_choropleth).onchange = enableChoroplethInput;
+
     // ------ process files ------ //
 
     // process path
@@ -163,6 +174,27 @@ class Demo extends Component {
     };
     document.getElementById(C_ID_input_geojson).addEventListener('change', geoPathSubmitted, false);
 
+    // process choropleth polygons
+    const choroplethPathSubmitted = function (e) {
+      console.log(this.files);
+      const reader = new FileReader();
+      const onLoadAction = function (e) {
+        try {
+          console.log(e);
+          //console.log(reader.result);
+          _this.polygons = JSON.parse(reader.result);
+        } catch (ex) {
+          console.log('unable to read file');
+          // TODO: notify user
+        }
+      };
+      reader.onload = onLoadAction;
+      reader.readAsText(this.files[0]);
+    };
+    document
+      .getElementById(C_ID_input_choropleth)
+      .addEventListener('change', choroplethPathSubmitted, false);
+
     // ------ import ------ //
 
     // import action
@@ -176,8 +208,11 @@ class Demo extends Component {
       if (!document.getElementById(C_ID_check_data).checked || data.json == undefined) {
         const fileName = document.getElementById(C_ID_select_data).value;
         console.log(fileName);
-        if (fileName === 'demo1.json') data.json = JsonDataDemo1
-        if (fileName === 'demo2.json') data.json = JsonDataDemo2
+        if (fileName === 'demo1.json') data.json = JsonDataDemo1;
+        if (fileName === 'demo2.json') data.json = JsonDataDemo2;
+        if (fileName === 'covidSlovakRegions.json') data.json = VaccinationData;
+        if (fileName === 'floor-plan-data.json') data.json = FloorPlanData;
+        if (fileName === 'network-data.json') data.json = NetworkData;
       }
 
       // process config json
@@ -188,6 +223,11 @@ class Demo extends Component {
       // process geojson
       if (!document.getElementById(C_ID_check_geojson).checked || geo.json == undefined) {
         geo.json = GeojsonConfig;
+      }
+
+      // process choropleth objects
+      if (!document.getElementById(C_ID_check_choropleth).checked) {
+        this.polygons = Polygons;
       }
 
       // update state
@@ -239,31 +279,51 @@ class Demo extends Component {
     return (
       <div className="demo-container">
         <div className="demo-toolbar">
-          <span>Data file: </span>
-          <select id={C_ID_select_data}>
-            <option value="demo1.json">demo1.json</option>
-            <option value="demo2.json">demo2.json</option>
-            <option disabled></option>
-          </select>
+          <div className="center f-column">
+            <div>
+              <span>Data file: </span>
+              <select id={C_ID_select_data}>
+                <option value="demo1.json">demo1.json</option>
+                <option value="demo2.json">demo2.json</option>
+                <option value="covidSlovakRegions.json">covidSlovakRegions.json</option>
+                <option value="floor-plan-data.json">floor-plan-data.json</option>
+                <option value="network-data.json">network-data.json</option>
+                <option disabled></option>
+              </select>
+            </div>
+            <div>
+              <span>
+                {' '}
+                or <input id={C_ID_check_data} type="checkbox" /> custom file:{' '}
+              </span>
+              <input id={C_ID_input_data} type="file" accept=".json" size="3" />
+            </div>
+          </div>
+          <div className="center">
+            <input id={C_ID_check_config} type="checkbox" />
+            <span> Configuration file: </span>
+            <input id={C_ID_input_config} type="file" accept=".json" size="3" />
+          </div>
+          <div></div>
 
-          <span>
-            {' '}
-            or <input id={C_ID_check_data} type="checkbox" /> custom file:{' '}
-          </span>
-          <input id={C_ID_input_data} type="file" accept=".json" size="3" />
+          <div className="center">
+            <input id={C_ID_check_geojson} type="checkbox" />
+            <span> GeoJSON file: </span>
+            <input id={C_ID_input_geojson} type="file" accept=".json" size="3" />
+          </div>
 
-          <input id={C_ID_check_config} type="checkbox" />
-          <span> Configuration file: </span>
-          <input id={C_ID_input_config} type="file" accept=".json" size="3" />
+          <div className="center">
+            <input id={C_ID_check_choropleth} type="checkbox" />
+            <span> Choropleth objects: </span>
+            <input id={C_ID_input_choropleth} type="file" accept=".json" size="3" />
+          </div>
 
-          <input id={C_ID_check_geojson} type="checkbox" />
-          <span> GeoJSON file: </span>
-          <input id={C_ID_input_geojson} type="file" accept=".json" size="3" />
+          <div className="center">
+            <input id={C_ID_input_import} type="submit" value="import" />
+            <input id={C_ID_input_export} type="submit" value="export" />
 
-          <input id={C_ID_input_import} type="submit" value="import" />
-          <input id={C_ID_input_export} type="submit" value="export" />
-
-          <input type="submit" value="geoExport" onClick={this.exportGeoJSON} />
+            <input type="submit" value="geoExport" onClick={this.exportGeoJSON} />
+          </div>
         </div>
         <div className="demo-map">
           <ReactGeovistoMap

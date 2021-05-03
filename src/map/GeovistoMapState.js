@@ -239,7 +239,10 @@ class GeovistoMapState extends AbstractMapObjectState {
    * @param {[any]} polygons
    */
   setPolygons(polygons) {
-    return (this.polygons = polygons);
+    let polys = [];
+    if (Array.isArray(polygons)) polys = polygons
+    if (polygons?.features) polys = polygons.features;
+    return (this.polygons = polys);
   }
 
   /**

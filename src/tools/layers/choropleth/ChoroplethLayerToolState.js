@@ -109,7 +109,10 @@ class ChoroplethLayerToolState extends AbstractLayerToolState {
      * @param {*} polygons 
      */
     setPolygons(polygons) {
-        this.polygons = polygons;
+        let polys = [];
+        if (Array.isArray(polygons)) polys = polygons;
+        if (polygons?.features) polys = polygons.features;
+        return (this.polygons = polys);
     }
 
     /**
