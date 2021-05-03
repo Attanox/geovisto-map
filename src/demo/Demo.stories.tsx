@@ -52,7 +52,7 @@ class Demo extends Component {
     this.centroids = require("/static/geo/country_centroids.json");
 
     // // implicit file
-    const jsonData = require('/static/data/demo1.json');
+    const jsonData = require('/static/data/covidSlovakRegions.json');
 
     // // implicit config
     const jsonConfig = require('/static/config/config.json');
@@ -167,7 +167,6 @@ class Demo extends Component {
       // process data json
       if(!document.getElementById(C_ID_check_data).checked || data.json == undefined) {
         const fileName = document.getElementById(C_ID_select_data).value;
-        console.log(fileName);
         data.json = require('/static/data/' + fileName);
       }
 
@@ -233,6 +232,9 @@ class Demo extends Component {
         <div className="demo-toolbar">
           <span>Data file: </span>
           <select id={C_ID_select_data}>
+            <option value="covidSlovakRegions.json">covidSlovakRegions.json</option>
+            <option value="network-data.json">network-data.json</option>
+            <option value="floor-plan-data.json">floor-plan-data.json</option>
             <option value="demo1.json">demo1.json</option>
             <option value="demo2.json">demo2.json</option>
             <option disabled></option>

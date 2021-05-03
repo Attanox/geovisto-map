@@ -46,6 +46,7 @@ class DrawingLayerToolTabControl extends AbstractLayerToolTabControl {
     if (label) inputPalette.appendChild(document.createTextNode(label + ': '));
     const wrapper = document.createElement('div');
     wrapper.style.display = 'grid';
+    wrapper.style.width = '100%';
     wrapper.style.gridTemplateColumns = 'repeat(4, 1fr)';
     inputPalette.appendChild(wrapper);
     opts.forEach((opt, idx) => {
@@ -186,11 +187,12 @@ class DrawingLayerToolTabControl extends AbstractLayerToolTabControl {
 
     const idKey = this.state.getIdentifierType();
 
-    const idOpts = data && data[0][idKey] ? data.map((d) => d[idKey]) : [];
+    let idOpts = data && data[0][idKey] ? data.map((d) => d[idKey]) : [];
+    idOpts = Array.from(new Set(idOpts));
 
     const result = SidebarInputFactory.createSidebarInput(model.identifier.input, {
       label: model.identifier.label,
-      action: this.getState().changeIdentifierAction,
+      action: (e) => this.getState().changeIdentifierAction(e.target.value),
       value: this._getSelected()?.identifier || '',
       options: idOpts,
       placeholder: 'e.g. CZ',
@@ -433,6 +435,81 @@ class DrawingLayerToolTabControl extends AbstractLayerToolTabControl {
     this.inputDesc.setDisabled(disableTextFields);
   };
 
+  renderDataFilters = (elem, model) => {
+    const data = this.getTool()?.getState()?.map?.state?.data;
+
+    const idOpts = data[0] ? Object.keys(data[0]).map((k) => ({ value: k, label: k })) : [];
+    const state = this.getState();
+
+    const setDataKey = (e, index) => {
+      let val = e.target.value;
+      state.setFiltersKey(index, val);
+      this.redrawTabContent(this._getSelected()?.layerType);
+    };
+    const setDataValue = (e, index) => {
+      let val = e.target.value;
+      state.setFiltersValue(index, val);
+      state.callIdentifierChange();
+      this.redrawTabContent(this._getSelected()?.layerType);
+    };
+
+    for (let index = 0; index < state.filtersAmount; index++) {
+      let filtersKey = state.getFiltersKey(index);
+      let inputKey = SidebarInputFactory.createSidebarInput(model.dataFilterKey.input, {
+        label: model.dataFilterKey.label,
+        action: (e) => setDataKey(e, index),
+        value: filtersKey,
+        options: [{ value: '', label: '' }, ...idOpts],
+      });
+      let keyEl = inputKey.create();
+      elem.appendChild(keyEl);
+      // ***********************************************************
+      let valueOpts = data && data[0][filtersKey] ? data.map((d) => d[filtersKey]) : [];
+      valueOpts = Array.from(new Set(valueOpts));
+
+      let inputValue = SidebarInputFactory.createSidebarInput(model.dataFilterValue.input, {
+        label: model.dataFilterValue.label,
+        action: (e) => setDataValue(e, index),
+        value: state.getFiltersValue(index),
+        options: ['', ...valueOpts],
+      });
+      let valueEl = inputValue.create();
+      elem.appendChild(valueEl);
+
+      elem.appendChild(document.createElement('hr'));
+    }
+  };
+
+  renderFilterInputs = (elem, model) => {
+    let disabled = !Boolean(this._getSelected());
+
+    const addFilter = () => {
+      this.getState().increaseFilters();
+      this.redrawTabContent(this._getSelected().layerType);
+    };
+    const removeFilter = () => {
+      this.getState().decreaseFilters();
+      this.getState().callIdentifierChange();
+      this.redrawTabContent(this._getSelected().layerType);
+    };
+
+    const wrapper = document.createElement('div');
+    wrapper.style.width = '100%';
+    const addFilterBtn = document.createElement('button');
+    addFilterBtn.innerText = 'Add Filter';
+    addFilterBtn.addEventListener('click', addFilter);
+    if (disabled) addFilterBtn.setAttribute('disabled', disabled);
+    else addFilterBtn.removeAttribute('disabled');
+    const removeFilterBtn = document.createElement('button');
+    removeFilterBtn.innerText = 'Remove Filter';
+    removeFilterBtn.addEventListener('click', removeFilter);
+    if (disabled) removeFilterBtn.setAttribute('disabled', disabled);
+    else removeFilterBtn.removeAttribute('disabled');
+    wrapper.appendChild(addFilterBtn);
+    wrapper.appendChild(removeFilterBtn);
+    elem.appendChild(wrapper);
+  };
+
   renderPolyInputs = (elem, model) => {
     // select stroke thickness
     const thicknessOpts = this.getState().strokes;
@@ -488,15 +565,20 @@ class DrawingLayerToolTabControl extends AbstractLayerToolTabControl {
     let paintPolyControl = this.createBrushSizeControl();
     if (paintPolyControl) elem.appendChild(paintPolyControl);
 
-    if (!layerType) return tab;
+    if (!layerType) {
+      this.getState().clearFilters();
+      return tab;
+    }
 
     if (layerType === 'search') {
       this.renderSearchInputs(elem, model);
-
+      this.getState().clearFilters();
       return tab;
     }
 
     this.renderDataInputs(elem, model);
+    this.renderDataFilters(elem, model);
+    this.renderFilterInputs(elem, model);
 
     if (layerType === 'painted' || layerType === 'polygon') {
       this.inputIntersect = this.createIntersectionCheck();

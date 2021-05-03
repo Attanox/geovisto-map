@@ -1,0 +1,182 @@
+[
+  {
+    "room": "0103",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "0104",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "0105",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "N103",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "N104",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "N105",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "M103",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "M104",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "M105",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "A112",
+    "area": 80,
+    "measurement": "m2"
+  },
+  {
+    "room": "A113",
+    "area": 80,
+    "measurement": "m2"
+  },
+  {
+    "room": "D102",
+    "area": 5000,
+    "measurement": "m2"
+  },
+  {
+    "room": "D105",
+    "area": 10000,
+    "measurement": "m2"
+  },
+  {
+    "room": "L114",
+    "area": 35,
+    "measurement": "m2"
+  },
+  {
+    "room": "L115",
+    "area": 35,
+    "measurement": "m2"
+  },
+  {
+    "room": "L116",
+    "area": 35,
+    "measurement": "m2"
+  },
+  {
+    "room": "L117",
+    "area": 35,
+    "measurement": "m2"
+  },
+  {
+    "room": "L118",
+    "area": 35,
+    "measurement": "m2"
+  },
+  {
+    "room": "L119",
+    "area": 35,
+    "measurement": "m2"
+  },
+  {
+    "room": "L120",
+    "area": 35,
+    "measurement": "m2"
+  },
+  {
+    "room": "L123",
+    "area": 5,
+    "measurement": "m2"
+  },
+  {
+    "room": "L124",
+    "area": 5,
+    "measurement": "m2"
+  },
+  {
+    "room": "L125",
+    "area": 5,
+    "measurement": "m2"
+  },
+  {
+    "room": "L126",
+    "area": 5,
+    "measurement": "m2"
+  },
+  {
+    "room": "L127",
+    "area": 5,
+    "measurement": "m2"
+  },
+  {
+    "room": "L128",
+    "area": 5,
+    "measurement": "m2"
+  },
+  {
+    "room": "L129",
+    "area": 5,
+    "measurement": "m2"
+  },
+  {
+    "room": "L130",
+    "area": 5,
+    "measurement": "m2"
+  },
+  {
+    "room": "L131",
+    "area": 5,
+    "measurement": "m2"
+  },
+  {
+    "room": "L132",
+    "area": 5,
+    "measurement": "m2"
+  },
+  {
+    "room": "E112",
+    "area": 10001,
+    "measurement": "m2"
+  },
+  {
+    "room": "E105",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "E106",
+    "area": 1001,
+    "measurement": "m2"
+  },
+  {
+    "room": "C104",
+    "area": 50,
+    "measurement": "m2"
+  },
+  {
+    "room": "C103",
+    "area": 50,
+    "measurement": "m2"
+  },
+  {
+    "room": "C102",
+    "area": 40,
+    "measurement": "m2"
+  }
+]

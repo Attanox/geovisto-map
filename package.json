@@ -91,6 +91,7 @@
     "leaflet-path-drag": "^1.1.0",
     "leaflet-path-transform": "^1.1.3",
     "leaflet-pather": "^0.1.17",
+    "leaflet-rotate-map": "^0.2.6",
     "leaflet-sidebar-v2": "3.2.2",
     "leaflet-snap": "^0.0.4",
     "leaflet.markercluster": "^1.4.1",

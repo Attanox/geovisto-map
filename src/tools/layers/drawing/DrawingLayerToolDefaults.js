@@ -64,6 +64,18 @@ const MAPPING_MODEL = {
     label: 'Icon URL',
     input: LabeledTextSidebarInput.ID(),
   },
+  dataFilterKey: {
+    id: INPUT_ID_PREFIX + '-data-filter-key',
+    name: 'data-filter-key',
+    label: 'Pick column',
+    input: LabeledSelectSidebarInput.ID(),
+  },
+  dataFilterValue: {
+    id: INPUT_ID_PREFIX + '-data-filter-value',
+    name: 'data-filter-value',
+    label: 'Pick value',
+    input: LabeledSelectSidebarInput.ID(),
+  },
 };
 
 /**

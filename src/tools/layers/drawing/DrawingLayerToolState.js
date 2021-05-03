@@ -42,7 +42,48 @@ class DrawingLayerToolState extends AbstractLayerToolState {
     this.mappedMarkersToVertices = {};
 
     this.chosenLayers = [];
+
+    this.extraSelected = [];
   }
+
+  clearExtraSelected = () => {
+    this.extraSelected.forEach((selected) => {
+      this.tool.normalizeElement(selected);
+    });
+    this.extraSelected = [];
+  };
+
+  /**
+   *
+   * @param {String} layerId
+   * @returns {Number} -1 and greater
+   */
+  isInExtraSelected = (layerId) => {
+    const found = this.extraSelected.map((el) => el._leaflet_id).indexOf(layerId);
+    return found;
+  };
+
+  areSameType = (layer) => {
+    if (isLayerPoly(this.selectedLayer)) {
+      return isLayerPoly(layer);
+    }
+
+    return this.selectedLayer.layerType === layer.layerType;
+  };
+
+  addExtraSelected = (layer) => {
+    // * have only one type of object in array
+    if (!this.areSameType(layer)) return;
+
+    const idx = this.isInExtraSelected(layer._leaflet_id);
+    if (idx > -1) {
+      this.tool.normalizeElement(layer);
+      this.extraSelected.splice(idx, 1);
+    } else {
+      this.tool.highlightElement(layer);
+      this.extraSelected.push(layer);
+    }
+  };
 
   chosenLayersMaxed = () => {
     return this.chosenLayers.length === MAX_CHOSEN;
@@ -219,8 +260,10 @@ class DrawingLayerToolState extends AbstractLayerToolState {
   }
 
   setSelectedLayer(layer) {
+    this.tool.normalizeElement(this.selectedLayer);
     this.selectedLayer = layer;
     this.tool.highlightElement(layer);
+    this.clearExtraSelected();
   }
 
   clearSelectedLayer() {
@@ -324,6 +367,11 @@ class DrawingLayerToolState extends AbstractLayerToolState {
           }
           if (result) {
             result.layerType = lType;
+
+            result.snapediting = new L.Handler.MarkerSnap(map, result);
+            result.snapediting.enable();
+            this.tool.tabControl.state.pushGuideLayer(result);
+
             if (f?.properties?.popupContent) {
               result.popupContent = f.properties.popupContent;
               result.bindPopup(f.properties.popupContent, {
@@ -442,6 +490,10 @@ class DrawingLayerToolState extends AbstractLayerToolState {
         layerToAdd.bindPopup(layer.popupContent, { closeOnClick: false, autoClose: false });
         layerToAdd.popupContent = layer.popupContent;
       }
+      layer.snapediting = new L.Handler.MarkerSnap(map, layer);
+      layer.snapediting.enable();
+      this.tool.tabControl.state.pushGuideLayer(layer);
+
       layerToAdd.layerType = layer.layerType;
       if (layerToAdd.dragging) layerToAdd.dragging.disable();
       this.addLayer(layerToAdd);

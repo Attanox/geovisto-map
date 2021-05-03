@@ -1,0 +1,5868 @@
+[
+  {
+    "Date": "2021-04-26",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 694,
+    "second_dose": 1538
+  },
+  {
+    "Date": "2021-04-26",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 751,
+    "second_dose": 2318
+  },
+  {
+    "Date": "2021-04-26",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 228,
+    "second_dose": 1637
+  },
+  {
+    "Date": "2021-04-26",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 501,
+    "second_dose": 1770
+  },
+  {
+    "Date": "2021-04-26",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 433,
+    "second_dose": 2475
+  },
+  {
+    "Date": "2021-04-26",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 209,
+    "second_dose": 1004
+  },
+  {
+    "Date": "2021-04-26",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 2540,
+    "second_dose": 1296
+  },
+  {
+    "Date": "2021-04-26",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1183,
+    "second_dose": 1223
+  },
+  {
+    "Date": "2021-04-25",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1599,
+    "second_dose": 84
+  },
+  {
+    "Date": "2021-04-25",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1943,
+    "second_dose": 1391
+  },
+  {
+    "Date": "2021-04-25",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-25",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 3068,
+    "second_dose": 12
+  },
+  {
+    "Date": "2021-04-25",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1533,
+    "second_dose": 1261
+  },
+  {
+    "Date": "2021-04-25",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1474,
+    "second_dose": 834
+  },
+  {
+    "Date": "2021-04-25",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 581,
+    "second_dose": 1564
+  },
+  {
+    "Date": "2021-04-25",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1207,
+    "second_dose": 455
+  },
+  {
+    "Date": "2021-04-24",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1068,
+    "second_dose": 454
+  },
+  {
+    "Date": "2021-04-24",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2204,
+    "second_dose": 1266
+  },
+  {
+    "Date": "2021-04-24",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 962,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-24",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1674,
+    "second_dose": 816
+  },
+  {
+    "Date": "2021-04-24",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2923,
+    "second_dose": 1312
+  },
+  {
+    "Date": "2021-04-24",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 351,
+    "second_dose": 279
+  },
+  {
+    "Date": "2021-04-24",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1507,
+    "second_dose": 638
+  },
+  {
+    "Date": "2021-04-24",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1750,
+    "second_dose": 1816
+  },
+  {
+    "Date": "2021-04-23",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1492,
+    "second_dose": 1318
+  },
+  {
+    "Date": "2021-04-23",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1560,
+    "second_dose": 2275
+  },
+  {
+    "Date": "2021-04-23",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 845,
+    "second_dose": 1565
+  },
+  {
+    "Date": "2021-04-23",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 883,
+    "second_dose": 1880
+  },
+  {
+    "Date": "2021-04-23",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 896,
+    "second_dose": 2113
+  },
+  {
+    "Date": "2021-04-23",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 539,
+    "second_dose": 2318
+  },
+  {
+    "Date": "2021-04-23",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 264,
+    "second_dose": 1546
+  },
+  {
+    "Date": "2021-04-23",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1612,
+    "second_dose": 1522
+  },
+  {
+    "Date": "2021-04-22",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2294,
+    "second_dose": 1391
+  },
+  {
+    "Date": "2021-04-22",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1873,
+    "second_dose": 2551
+  },
+  {
+    "Date": "2021-04-22",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 682,
+    "second_dose": 1212
+  },
+  {
+    "Date": "2021-04-22",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 388,
+    "second_dose": 1931
+  },
+  {
+    "Date": "2021-04-22",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 649,
+    "second_dose": 2094
+  },
+  {
+    "Date": "2021-04-22",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 443,
+    "second_dose": 1214
+  },
+  {
+    "Date": "2021-04-22",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 562,
+    "second_dose": 1294
+  },
+  {
+    "Date": "2021-04-22",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1765,
+    "second_dose": 1336
+  },
+  {
+    "Date": "2021-04-21",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1054,
+    "second_dose": 1423
+  },
+  {
+    "Date": "2021-04-21",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1534,
+    "second_dose": 2449
+  },
+  {
+    "Date": "2021-04-21",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 346,
+    "second_dose": 1931
+  },
+  {
+    "Date": "2021-04-21",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 862,
+    "second_dose": 1402
+  },
+  {
+    "Date": "2021-04-21",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1054,
+    "second_dose": 2376
+  },
+  {
+    "Date": "2021-04-21",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 454,
+    "second_dose": 790
+  },
+  {
+    "Date": "2021-04-21",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 566,
+    "second_dose": 1343
+  },
+  {
+    "Date": "2021-04-21",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1298,
+    "second_dose": 1616
+  },
+  {
+    "Date": "2021-04-20",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1037,
+    "second_dose": 1187
+  },
+  {
+    "Date": "2021-04-20",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1606,
+    "second_dose": 2561
+  },
+  {
+    "Date": "2021-04-20",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 409,
+    "second_dose": 2029
+  },
+  {
+    "Date": "2021-04-20",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1494,
+    "second_dose": 1491
+  },
+  {
+    "Date": "2021-04-20",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 961,
+    "second_dose": 2279
+  },
+  {
+    "Date": "2021-04-20",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 675,
+    "second_dose": 1105
+  },
+  {
+    "Date": "2021-04-20",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 484,
+    "second_dose": 1217
+  },
+  {
+    "Date": "2021-04-20",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1269,
+    "second_dose": 1503
+  },
+  {
+    "Date": "2021-04-19",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1214,
+    "second_dose": 1042
+  },
+  {
+    "Date": "2021-04-19",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1898,
+    "second_dose": 1912
+  },
+  {
+    "Date": "2021-04-19",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 673,
+    "second_dose": 1437
+  },
+  {
+    "Date": "2021-04-19",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1131,
+    "second_dose": 1671
+  },
+  {
+    "Date": "2021-04-19",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 871,
+    "second_dose": 1879
+  },
+  {
+    "Date": "2021-04-19",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 455,
+    "second_dose": 985
+  },
+  {
+    "Date": "2021-04-19",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 704,
+    "second_dose": 1164
+  },
+  {
+    "Date": "2021-04-19",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1832,
+    "second_dose": 1173
+  },
+  {
+    "Date": "2021-04-18",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1027,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-18",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3546,
+    "second_dose": 94
+  },
+  {
+    "Date": "2021-04-18",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1955,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-18",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1860,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-18",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-18",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1458,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-18",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 2057,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-18",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 405,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-17",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2599,
+    "second_dose": 9
+  },
+  {
+    "Date": "2021-04-17",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3853,
+    "second_dose": 114
+  },
+  {
+    "Date": "2021-04-17",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1855,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-17",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1830,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-17",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 4610,
+    "second_dose": 20
+  },
+  {
+    "Date": "2021-04-17",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 3666,
+    "second_dose": 216
+  },
+  {
+    "Date": "2021-04-17",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 5148,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-17",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2410,
+    "second_dose": 8
+  },
+  {
+    "Date": "2021-04-16",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2143,
+    "second_dose": 707
+  },
+  {
+    "Date": "2021-04-16",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 4144,
+    "second_dose": 1739
+  },
+  {
+    "Date": "2021-04-16",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 2490,
+    "second_dose": 1860
+  },
+  {
+    "Date": "2021-04-16",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1082,
+    "second_dose": 1646
+  },
+  {
+    "Date": "2021-04-16",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1096,
+    "second_dose": 1676
+  },
+  {
+    "Date": "2021-04-16",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 924,
+    "second_dose": 1920
+  },
+  {
+    "Date": "2021-04-16",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 681,
+    "second_dose": 1152
+  },
+  {
+    "Date": "2021-04-16",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1363,
+    "second_dose": 1293
+  },
+  {
+    "Date": "2021-04-15",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2739,
+    "second_dose": 1175
+  },
+  {
+    "Date": "2021-04-15",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2494,
+    "second_dose": 2031
+  },
+  {
+    "Date": "2021-04-15",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 540,
+    "second_dose": 2048
+  },
+  {
+    "Date": "2021-04-15",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1059,
+    "second_dose": 1628
+  },
+  {
+    "Date": "2021-04-15",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1260,
+    "second_dose": 1738
+  },
+  {
+    "Date": "2021-04-15",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 791,
+    "second_dose": 848
+  },
+  {
+    "Date": "2021-04-15",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 769,
+    "second_dose": 1183
+  },
+  {
+    "Date": "2021-04-15",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1202,
+    "second_dose": 1563
+  },
+  {
+    "Date": "2021-04-14",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 931,
+    "second_dose": 1273
+  },
+  {
+    "Date": "2021-04-14",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2666,
+    "second_dose": 1329
+  },
+  {
+    "Date": "2021-04-14",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 640,
+    "second_dose": 1881
+  },
+  {
+    "Date": "2021-04-14",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 881,
+    "second_dose": 1463
+  },
+  {
+    "Date": "2021-04-14",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1425,
+    "second_dose": 1883
+  },
+  {
+    "Date": "2021-04-14",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 895,
+    "second_dose": 817
+  },
+  {
+    "Date": "2021-04-14",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 969,
+    "second_dose": 967
+  },
+  {
+    "Date": "2021-04-14",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1029,
+    "second_dose": 1218
+  },
+  {
+    "Date": "2021-04-13",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1267,
+    "second_dose": 1149
+  },
+  {
+    "Date": "2021-04-13",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2174,
+    "second_dose": 1608
+  },
+  {
+    "Date": "2021-04-13",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 681,
+    "second_dose": 1939
+  },
+  {
+    "Date": "2021-04-13",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 965,
+    "second_dose": 1580
+  },
+  {
+    "Date": "2021-04-13",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1029,
+    "second_dose": 1734
+  },
+  {
+    "Date": "2021-04-13",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 806,
+    "second_dose": 1075
+  },
+  {
+    "Date": "2021-04-13",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1145,
+    "second_dose": 682
+  },
+  {
+    "Date": "2021-04-13",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1606,
+    "second_dose": 1190
+  },
+  {
+    "Date": "2021-04-12",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1262,
+    "second_dose": 1130
+  },
+  {
+    "Date": "2021-04-12",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2375,
+    "second_dose": 1355
+  },
+  {
+    "Date": "2021-04-12",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 2408,
+    "second_dose": 1645
+  },
+  {
+    "Date": "2021-04-12",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1541,
+    "second_dose": 882
+  },
+  {
+    "Date": "2021-04-12",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 979,
+    "second_dose": 1819
+  },
+  {
+    "Date": "2021-04-12",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 840,
+    "second_dose": 756
+  },
+  {
+    "Date": "2021-04-12",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 857,
+    "second_dose": 896
+  },
+  {
+    "Date": "2021-04-12",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1062,
+    "second_dose": 1363
+  },
+  {
+    "Date": "2021-04-11",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1206,
+    "second_dose": 1
+  },
+  {
+    "Date": "2021-04-11",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3282,
+    "second_dose": 18
+  },
+  {
+    "Date": "2021-04-11",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1818,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-11",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1410,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-11",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 3472,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-11",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 2496,
+    "second_dose": 1245
+  },
+  {
+    "Date": "2021-04-11",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 5763,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-11",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 351,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-10",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2288,
+    "second_dose": 3
+  },
+  {
+    "Date": "2021-04-10",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3868,
+    "second_dose": 54
+  },
+  {
+    "Date": "2021-04-10",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2057,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-10",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 4070,
+    "second_dose": 5
+  },
+  {
+    "Date": "2021-04-10",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 2443,
+    "second_dose": 376
+  },
+  {
+    "Date": "2021-04-10",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 3982,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-10",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2113,
+    "second_dose": 429
+  },
+  {
+    "Date": "2021-04-09",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 3327,
+    "second_dose": 960
+  },
+  {
+    "Date": "2021-04-09",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3498,
+    "second_dose": 1612
+  },
+  {
+    "Date": "2021-04-09",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1506,
+    "second_dose": 1613
+  },
+  {
+    "Date": "2021-04-09",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1559,
+    "second_dose": 1326
+  },
+  {
+    "Date": "2021-04-09",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1963,
+    "second_dose": 870
+  },
+  {
+    "Date": "2021-04-09",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1971,
+    "second_dose": 1080
+  },
+  {
+    "Date": "2021-04-09",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1144,
+    "second_dose": 618
+  },
+  {
+    "Date": "2021-04-09",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1355,
+    "second_dose": 1310
+  },
+  {
+    "Date": "2021-04-08",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1976,
+    "second_dose": 912
+  },
+  {
+    "Date": "2021-04-08",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2589,
+    "second_dose": 1242
+  },
+  {
+    "Date": "2021-04-08",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 2828,
+    "second_dose": 915
+  },
+  {
+    "Date": "2021-04-08",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1746,
+    "second_dose": 1114
+  },
+  {
+    "Date": "2021-04-08",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1942,
+    "second_dose": 1141
+  },
+  {
+    "Date": "2021-04-08",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1115,
+    "second_dose": 512
+  },
+  {
+    "Date": "2021-04-08",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1266,
+    "second_dose": 664
+  },
+  {
+    "Date": "2021-04-08",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1681,
+    "second_dose": 1381
+  },
+  {
+    "Date": "2021-04-07",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1975,
+    "second_dose": 245
+  },
+  {
+    "Date": "2021-04-07",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3484,
+    "second_dose": 364
+  },
+  {
+    "Date": "2021-04-07",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 3896,
+    "second_dose": 211
+  },
+  {
+    "Date": "2021-04-07",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2605,
+    "second_dose": 643
+  },
+  {
+    "Date": "2021-04-07",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2269,
+    "second_dose": 154
+  },
+  {
+    "Date": "2021-04-07",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1384,
+    "second_dose": 84
+  },
+  {
+    "Date": "2021-04-07",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1926,
+    "second_dose": 369
+  },
+  {
+    "Date": "2021-04-07",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2307,
+    "second_dose": 123
+  },
+  {
+    "Date": "2021-04-06",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1138,
+    "second_dose": 795
+  },
+  {
+    "Date": "2021-04-06",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3287,
+    "second_dose": 379
+  },
+  {
+    "Date": "2021-04-06",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1871,
+    "second_dose": 362
+  },
+  {
+    "Date": "2021-04-06",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2218,
+    "second_dose": 487
+  },
+  {
+    "Date": "2021-04-06",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2145,
+    "second_dose": 499
+  },
+  {
+    "Date": "2021-04-06",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1697,
+    "second_dose": 175
+  },
+  {
+    "Date": "2021-04-06",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1506,
+    "second_dose": 348
+  },
+  {
+    "Date": "2021-04-06",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2167,
+    "second_dose": 425
+  },
+  {
+    "Date": "2021-04-05",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-05",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-05",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 369,
+    "second_dose": 4
+  },
+  {
+    "Date": "2021-04-04",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2476,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-04",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1620,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-04",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-04",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-03",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2530,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-03",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1700,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-03",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 185,
+    "second_dose": 1
+  },
+  {
+    "Date": "2021-04-03",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 313,
+    "second_dose": 162
+  },
+  {
+    "Date": "2021-04-03",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 4290,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-03",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2266,
+    "second_dose": 1
+  },
+  {
+    "Date": "2021-04-02",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 5,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-02",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2247,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-02",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 227,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-04-02",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 842,
+    "second_dose": 27
+  },
+  {
+    "Date": "2021-04-02",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 169,
+    "second_dose": 17
+  },
+  {
+    "Date": "2021-04-02",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 227,
+    "second_dose": 25
+  },
+  {
+    "Date": "2021-04-02",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 938,
+    "second_dose": 33
+  },
+  {
+    "Date": "2021-04-01",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2292,
+    "second_dose": 241
+  },
+  {
+    "Date": "2021-04-01",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3117,
+    "second_dose": 293
+  },
+  {
+    "Date": "2021-04-01",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 4089,
+    "second_dose": 56
+  },
+  {
+    "Date": "2021-04-01",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2273,
+    "second_dose": 399
+  },
+  {
+    "Date": "2021-04-01",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2481,
+    "second_dose": 133
+  },
+  {
+    "Date": "2021-04-01",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1301,
+    "second_dose": 263
+  },
+  {
+    "Date": "2021-04-01",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1380,
+    "second_dose": 65
+  },
+  {
+    "Date": "2021-04-01",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2464,
+    "second_dose": 92
+  },
+  {
+    "Date": "2021-03-31",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1975,
+    "second_dose": 226
+  },
+  {
+    "Date": "2021-03-31",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3496,
+    "second_dose": 379
+  },
+  {
+    "Date": "2021-03-31",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 3821,
+    "second_dose": 120
+  },
+  {
+    "Date": "2021-03-31",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2000,
+    "second_dose": 564
+  },
+  {
+    "Date": "2021-03-31",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2809,
+    "second_dose": 52
+  },
+  {
+    "Date": "2021-03-31",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 2065,
+    "second_dose": 414
+  },
+  {
+    "Date": "2021-03-31",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1842,
+    "second_dose": 43
+  },
+  {
+    "Date": "2021-03-31",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2366,
+    "second_dose": 139
+  },
+  {
+    "Date": "2021-03-30",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2066,
+    "second_dose": 387
+  },
+  {
+    "Date": "2021-03-30",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3413,
+    "second_dose": 145
+  },
+  {
+    "Date": "2021-03-30",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 2305,
+    "second_dose": 118
+  },
+  {
+    "Date": "2021-03-30",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2062,
+    "second_dose": 350
+  },
+  {
+    "Date": "2021-03-30",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2849,
+    "second_dose": 612
+  },
+  {
+    "Date": "2021-03-30",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1487,
+    "second_dose": 113
+  },
+  {
+    "Date": "2021-03-30",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1761,
+    "second_dose": 1064
+  },
+  {
+    "Date": "2021-03-30",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2002,
+    "second_dose": 191
+  },
+  {
+    "Date": "2021-03-29",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2739,
+    "second_dose": 217
+  },
+  {
+    "Date": "2021-03-29",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3700,
+    "second_dose": 109
+  },
+  {
+    "Date": "2021-03-29",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 2818,
+    "second_dose": 133
+  },
+  {
+    "Date": "2021-03-29",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2220,
+    "second_dose": 229
+  },
+  {
+    "Date": "2021-03-29",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2475,
+    "second_dose": 242
+  },
+  {
+    "Date": "2021-03-29",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1197,
+    "second_dose": 38
+  },
+  {
+    "Date": "2021-03-29",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1364,
+    "second_dose": 23
+  },
+  {
+    "Date": "2021-03-29",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1824,
+    "second_dose": 208
+  },
+  {
+    "Date": "2021-03-28",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 722,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-28",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2620,
+    "second_dose": 1
+  },
+  {
+    "Date": "2021-03-28",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2000,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-28",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1908,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-28",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1900,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-28",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-28",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-27",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1049,
+    "second_dose": 2
+  },
+  {
+    "Date": "2021-03-27",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3018,
+    "second_dose": 1
+  },
+  {
+    "Date": "2021-03-27",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1969,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-27",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 4276,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-27",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 2300,
+    "second_dose": 147
+  },
+  {
+    "Date": "2021-03-27",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1712,
+    "second_dose": 15
+  },
+  {
+    "Date": "2021-03-26",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2221,
+    "second_dose": 385
+  },
+  {
+    "Date": "2021-03-26",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2777,
+    "second_dose": 304
+  },
+  {
+    "Date": "2021-03-26",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1671,
+    "second_dose": 71
+  },
+  {
+    "Date": "2021-03-26",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2290,
+    "second_dose": 383
+  },
+  {
+    "Date": "2021-03-26",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2126,
+    "second_dose": 431
+  },
+  {
+    "Date": "2021-03-26",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1955,
+    "second_dose": 151
+  },
+  {
+    "Date": "2021-03-26",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1372,
+    "second_dose": 37
+  },
+  {
+    "Date": "2021-03-26",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2259,
+    "second_dose": 207
+  },
+  {
+    "Date": "2021-03-25",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2383,
+    "second_dose": 396
+  },
+  {
+    "Date": "2021-03-25",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2576,
+    "second_dose": 549
+  },
+  {
+    "Date": "2021-03-25",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1541,
+    "second_dose": 86
+  },
+  {
+    "Date": "2021-03-25",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2185,
+    "second_dose": 587
+  },
+  {
+    "Date": "2021-03-25",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2089,
+    "second_dose": 453
+  },
+  {
+    "Date": "2021-03-25",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1268,
+    "second_dose": 302
+  },
+  {
+    "Date": "2021-03-25",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1377,
+    "second_dose": 94
+  },
+  {
+    "Date": "2021-03-25",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2277,
+    "second_dose": 356
+  },
+  {
+    "Date": "2021-03-24",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2252,
+    "second_dose": 521
+  },
+  {
+    "Date": "2021-03-24",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2845,
+    "second_dose": 1016
+  },
+  {
+    "Date": "2021-03-24",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 3826,
+    "second_dose": 250
+  },
+  {
+    "Date": "2021-03-24",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1809,
+    "second_dose": 336
+  },
+  {
+    "Date": "2021-03-24",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2416,
+    "second_dose": 691
+  },
+  {
+    "Date": "2021-03-24",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1087,
+    "second_dose": 512
+  },
+  {
+    "Date": "2021-03-24",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1319,
+    "second_dose": 110
+  },
+  {
+    "Date": "2021-03-24",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2192,
+    "second_dose": 531
+  },
+  {
+    "Date": "2021-03-23",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2008,
+    "second_dose": 831
+  },
+  {
+    "Date": "2021-03-23",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2727,
+    "second_dose": 1071
+  },
+  {
+    "Date": "2021-03-23",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 4328,
+    "second_dose": 239
+  },
+  {
+    "Date": "2021-03-23",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1561,
+    "second_dose": 554
+  },
+  {
+    "Date": "2021-03-23",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2397,
+    "second_dose": 569
+  },
+  {
+    "Date": "2021-03-23",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1375,
+    "second_dose": 467
+  },
+  {
+    "Date": "2021-03-23",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1044,
+    "second_dose": 298
+  },
+  {
+    "Date": "2021-03-23",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2336,
+    "second_dose": 493
+  },
+  {
+    "Date": "2021-03-22",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2559,
+    "second_dose": 675
+  },
+  {
+    "Date": "2021-03-22",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2399,
+    "second_dose": 751
+  },
+  {
+    "Date": "2021-03-22",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 3533,
+    "second_dose": 470
+  },
+  {
+    "Date": "2021-03-22",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2098,
+    "second_dose": 242
+  },
+  {
+    "Date": "2021-03-22",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 2334,
+    "second_dose": 667
+  },
+  {
+    "Date": "2021-03-22",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1129,
+    "second_dose": 185
+  },
+  {
+    "Date": "2021-03-22",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1278,
+    "second_dose": 64
+  },
+  {
+    "Date": "2021-03-22",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2473,
+    "second_dose": 194
+  },
+  {
+    "Date": "2021-03-21",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 654,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-21",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2192,
+    "second_dose": 177
+  },
+  {
+    "Date": "2021-03-21",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 2332,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-21",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 960,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-21",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1706,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-21",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 2025,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-21",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 5415,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-21",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 39,
+    "second_dose": 580
+  },
+  {
+    "Date": "2021-03-20",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1031,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-20",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2673,
+    "second_dose": 372
+  },
+  {
+    "Date": "2021-03-20",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1746,
+    "second_dose": 12
+  },
+  {
+    "Date": "2021-03-20",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 960,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-20",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 4071,
+    "second_dose": 588
+  },
+  {
+    "Date": "2021-03-20",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 2035,
+    "second_dose": 508
+  },
+  {
+    "Date": "2021-03-20",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 4345,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-20",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1718,
+    "second_dose": 117
+  },
+  {
+    "Date": "2021-03-19",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1160,
+    "second_dose": 691
+  },
+  {
+    "Date": "2021-03-19",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2125,
+    "second_dose": 1009
+  },
+  {
+    "Date": "2021-03-19",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1906,
+    "second_dose": 695
+  },
+  {
+    "Date": "2021-03-19",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1851,
+    "second_dose": 940
+  },
+  {
+    "Date": "2021-03-19",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1647,
+    "second_dose": 657
+  },
+  {
+    "Date": "2021-03-19",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1955,
+    "second_dose": 400
+  },
+  {
+    "Date": "2021-03-19",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 616,
+    "second_dose": 369
+  },
+  {
+    "Date": "2021-03-19",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1597,
+    "second_dose": 989
+  },
+  {
+    "Date": "2021-03-18",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2229,
+    "second_dose": 510
+  },
+  {
+    "Date": "2021-03-18",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2869,
+    "second_dose": 874
+  },
+  {
+    "Date": "2021-03-18",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 3759,
+    "second_dose": 255
+  },
+  {
+    "Date": "2021-03-18",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1973,
+    "second_dose": 426
+  },
+  {
+    "Date": "2021-03-18",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1754,
+    "second_dose": 594
+  },
+  {
+    "Date": "2021-03-18",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 884,
+    "second_dose": 310
+  },
+  {
+    "Date": "2021-03-18",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1128,
+    "second_dose": 42
+  },
+  {
+    "Date": "2021-03-18",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2044,
+    "second_dose": 584
+  },
+  {
+    "Date": "2021-03-17",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2983,
+    "second_dose": 160
+  },
+  {
+    "Date": "2021-03-17",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1587,
+    "second_dose": 963
+  },
+  {
+    "Date": "2021-03-17",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 3403,
+    "second_dose": 466
+  },
+  {
+    "Date": "2021-03-17",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1852,
+    "second_dose": 291
+  },
+  {
+    "Date": "2021-03-17",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1945,
+    "second_dose": 581
+  },
+  {
+    "Date": "2021-03-17",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1072,
+    "second_dose": 298
+  },
+  {
+    "Date": "2021-03-17",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1002,
+    "second_dose": 24
+  },
+  {
+    "Date": "2021-03-17",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1610,
+    "second_dose": 804
+  },
+  {
+    "Date": "2021-03-16",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1849,
+    "second_dose": 304
+  },
+  {
+    "Date": "2021-03-16",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2279,
+    "second_dose": 1172
+  },
+  {
+    "Date": "2021-03-16",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 3773,
+    "second_dose": 340
+  },
+  {
+    "Date": "2021-03-16",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2068,
+    "second_dose": 171
+  },
+  {
+    "Date": "2021-03-16",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1945,
+    "second_dose": 416
+  },
+  {
+    "Date": "2021-03-16",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1262,
+    "second_dose": 179
+  },
+  {
+    "Date": "2021-03-16",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1030,
+    "second_dose": 20
+  },
+  {
+    "Date": "2021-03-16",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1511,
+    "second_dose": 727
+  },
+  {
+    "Date": "2021-03-15",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1765,
+    "second_dose": 320
+  },
+  {
+    "Date": "2021-03-15",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1679,
+    "second_dose": 995
+  },
+  {
+    "Date": "2021-03-15",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 3376,
+    "second_dose": 529
+  },
+  {
+    "Date": "2021-03-15",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1377,
+    "second_dose": 715
+  },
+  {
+    "Date": "2021-03-15",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1851,
+    "second_dose": 406
+  },
+  {
+    "Date": "2021-03-15",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1108,
+    "second_dose": 51
+  },
+  {
+    "Date": "2021-03-15",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 958,
+    "second_dose": 38
+  },
+  {
+    "Date": "2021-03-15",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1804,
+    "second_dose": 536
+  },
+  {
+    "Date": "2021-03-14",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 660,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-14",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1904,
+    "second_dose": 176
+  },
+  {
+    "Date": "2021-03-14",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1811,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-14",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 401,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-14",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 4453,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-14",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 2410,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-14",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 4147,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-14",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 449,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-13",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 990,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-13",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1854,
+    "second_dose": 276
+  },
+  {
+    "Date": "2021-03-13",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 2139,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-13",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 312,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-13",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 8082,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-13",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1253,
+    "second_dose": 1850
+  },
+  {
+    "Date": "2021-03-13",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 4180,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-13",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2807,
+    "second_dose": 6
+  },
+  {
+    "Date": "2021-03-12",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1928,
+    "second_dose": 797
+  },
+  {
+    "Date": "2021-03-12",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 2054,
+    "second_dose": 746
+  },
+  {
+    "Date": "2021-03-12",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 3167,
+    "second_dose": 845
+  },
+  {
+    "Date": "2021-03-12",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1877,
+    "second_dose": 823
+  },
+  {
+    "Date": "2021-03-12",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1070,
+    "second_dose": 1146
+  },
+  {
+    "Date": "2021-03-12",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1212,
+    "second_dose": 491
+  },
+  {
+    "Date": "2021-03-12",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 348,
+    "second_dose": 522
+  },
+  {
+    "Date": "2021-03-12",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1765,
+    "second_dose": 629
+  },
+  {
+    "Date": "2021-03-11",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 2228,
+    "second_dose": 984
+  },
+  {
+    "Date": "2021-03-11",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1559,
+    "second_dose": 1176
+  },
+  {
+    "Date": "2021-03-11",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1329,
+    "second_dose": 747
+  },
+  {
+    "Date": "2021-03-11",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1487,
+    "second_dose": 993
+  },
+  {
+    "Date": "2021-03-11",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1345,
+    "second_dose": 747
+  },
+  {
+    "Date": "2021-03-11",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 901,
+    "second_dose": 867
+  },
+  {
+    "Date": "2021-03-11",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 675,
+    "second_dose": 807
+  },
+  {
+    "Date": "2021-03-11",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1872,
+    "second_dose": 658
+  },
+  {
+    "Date": "2021-03-10",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1169,
+    "second_dose": 1137
+  },
+  {
+    "Date": "2021-03-10",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 580,
+    "second_dose": 1266
+  },
+  {
+    "Date": "2021-03-10",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 324,
+    "second_dose": 734
+  },
+  {
+    "Date": "2021-03-10",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 791,
+    "second_dose": 715
+  },
+  {
+    "Date": "2021-03-10",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 331,
+    "second_dose": 645
+  },
+  {
+    "Date": "2021-03-10",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 200,
+    "second_dose": 429
+  },
+  {
+    "Date": "2021-03-10",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 153,
+    "second_dose": 825
+  },
+  {
+    "Date": "2021-03-10",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 442,
+    "second_dose": 1007
+  },
+  {
+    "Date": "2021-03-09",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 195,
+    "second_dose": 951
+  },
+  {
+    "Date": "2021-03-09",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 269,
+    "second_dose": 857
+  },
+  {
+    "Date": "2021-03-09",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 234,
+    "second_dose": 1136
+  },
+  {
+    "Date": "2021-03-09",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 878,
+    "second_dose": 668
+  },
+  {
+    "Date": "2021-03-09",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 372,
+    "second_dose": 1010
+  },
+  {
+    "Date": "2021-03-09",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 304,
+    "second_dose": 810
+  },
+  {
+    "Date": "2021-03-09",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 370,
+    "second_dose": 710
+  },
+  {
+    "Date": "2021-03-09",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 607,
+    "second_dose": 635
+  },
+  {
+    "Date": "2021-03-08",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1397,
+    "second_dose": 1242
+  },
+  {
+    "Date": "2021-03-08",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 437,
+    "second_dose": 1181
+  },
+  {
+    "Date": "2021-03-08",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1698,
+    "second_dose": 1525
+  },
+  {
+    "Date": "2021-03-08",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 795,
+    "second_dose": 733
+  },
+  {
+    "Date": "2021-03-08",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 103,
+    "second_dose": 1633
+  },
+  {
+    "Date": "2021-03-08",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 236,
+    "second_dose": 418
+  },
+  {
+    "Date": "2021-03-08",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 53,
+    "second_dose": 1039
+  },
+  {
+    "Date": "2021-03-08",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 426,
+    "second_dose": 885
+  },
+  {
+    "Date": "2021-03-07",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 561,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-07",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 787,
+    "second_dose": 192
+  },
+  {
+    "Date": "2021-03-07",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1939,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-07",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 360,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-07",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 7208,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-07",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1174,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-07",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 420,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-06",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 549,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-06",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1422,
+    "second_dose": 497
+  },
+  {
+    "Date": "2021-03-06",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1866,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-06",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 359,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-06",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 7096,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-06",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 842,
+    "second_dose": 1561
+  },
+  {
+    "Date": "2021-03-06",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 4406,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-06",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2254,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-03-05",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1003,
+    "second_dose": 608
+  },
+  {
+    "Date": "2021-03-05",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 203,
+    "second_dose": 554
+  },
+  {
+    "Date": "2021-03-05",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1262,
+    "second_dose": 1174
+  },
+  {
+    "Date": "2021-03-05",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 853,
+    "second_dose": 954
+  },
+  {
+    "Date": "2021-03-05",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 647,
+    "second_dose": 1194
+  },
+  {
+    "Date": "2021-03-05",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 719,
+    "second_dose": 960
+  },
+  {
+    "Date": "2021-03-05",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 367,
+    "second_dose": 884
+  },
+  {
+    "Date": "2021-03-05",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 511,
+    "second_dose": 898
+  },
+  {
+    "Date": "2021-03-04",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 496,
+    "second_dose": 974
+  },
+  {
+    "Date": "2021-03-04",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 269,
+    "second_dose": 842
+  },
+  {
+    "Date": "2021-03-04",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1071,
+    "second_dose": 1220
+  },
+  {
+    "Date": "2021-03-04",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 691,
+    "second_dose": 1090
+  },
+  {
+    "Date": "2021-03-04",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 769,
+    "second_dose": 1407
+  },
+  {
+    "Date": "2021-03-04",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 381,
+    "second_dose": 821
+  },
+  {
+    "Date": "2021-03-04",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 268,
+    "second_dose": 926
+  },
+  {
+    "Date": "2021-03-04",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 425,
+    "second_dose": 1402
+  },
+  {
+    "Date": "2021-03-03",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 438,
+    "second_dose": 833
+  },
+  {
+    "Date": "2021-03-03",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 318,
+    "second_dose": 799
+  },
+  {
+    "Date": "2021-03-03",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 981,
+    "second_dose": 1591
+  },
+  {
+    "Date": "2021-03-03",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1014,
+    "second_dose": 765
+  },
+  {
+    "Date": "2021-03-03",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 500,
+    "second_dose": 1392
+  },
+  {
+    "Date": "2021-03-03",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 357,
+    "second_dose": 837
+  },
+  {
+    "Date": "2021-03-03",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 292,
+    "second_dose": 1707
+  },
+  {
+    "Date": "2021-03-03",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 335,
+    "second_dose": 1174
+  },
+  {
+    "Date": "2021-03-02",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 551,
+    "second_dose": 1136
+  },
+  {
+    "Date": "2021-03-02",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 138,
+    "second_dose": 1169
+  },
+  {
+    "Date": "2021-03-02",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 2287,
+    "second_dose": 1565
+  },
+  {
+    "Date": "2021-03-02",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 809,
+    "second_dose": 873
+  },
+  {
+    "Date": "2021-03-02",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 904,
+    "second_dose": 1730
+  },
+  {
+    "Date": "2021-03-02",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 396,
+    "second_dose": 1086
+  },
+  {
+    "Date": "2021-03-02",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 198,
+    "second_dose": 868
+  },
+  {
+    "Date": "2021-03-02",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 307,
+    "second_dose": 1255
+  },
+  {
+    "Date": "2021-03-01",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 653,
+    "second_dose": 921
+  },
+  {
+    "Date": "2021-03-01",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 406,
+    "second_dose": 1161
+  },
+  {
+    "Date": "2021-03-01",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 2329,
+    "second_dose": 1553
+  },
+  {
+    "Date": "2021-03-01",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 657,
+    "second_dose": 978
+  },
+  {
+    "Date": "2021-03-01",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1056,
+    "second_dose": 1604
+  },
+  {
+    "Date": "2021-03-01",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 113,
+    "second_dose": 645
+  },
+  {
+    "Date": "2021-03-01",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 330,
+    "second_dose": 1237
+  },
+  {
+    "Date": "2021-03-01",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 388,
+    "second_dose": 1106
+  },
+  {
+    "Date": "2021-02-28",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 595,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-28",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 637,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-28",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1391,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-28",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 183,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-28",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 760,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-28",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 2000,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-28",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-27",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 829,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-27",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 432,
+    "second_dose": 120
+  },
+  {
+    "Date": "2021-02-27",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 663,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-27",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 3226,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-27",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 699,
+    "second_dose": 346
+  },
+  {
+    "Date": "2021-02-27",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1650,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-27",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1325,
+    "second_dose": 418
+  },
+  {
+    "Date": "2021-02-26",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 547,
+    "second_dose": 672
+  },
+  {
+    "Date": "2021-02-26",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 407,
+    "second_dose": 1395
+  },
+  {
+    "Date": "2021-02-26",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 626,
+    "second_dose": 1557
+  },
+  {
+    "Date": "2021-02-26",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 739,
+    "second_dose": 1097
+  },
+  {
+    "Date": "2021-02-26",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 909,
+    "second_dose": 1105
+  },
+  {
+    "Date": "2021-02-26",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 251,
+    "second_dose": 1129
+  },
+  {
+    "Date": "2021-02-26",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 230,
+    "second_dose": 876
+  },
+  {
+    "Date": "2021-02-26",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 212,
+    "second_dose": 1232
+  },
+  {
+    "Date": "2021-02-25",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 416,
+    "second_dose": 1013
+  },
+  {
+    "Date": "2021-02-25",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 466,
+    "second_dose": 1374
+  },
+  {
+    "Date": "2021-02-25",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 533,
+    "second_dose": 1300
+  },
+  {
+    "Date": "2021-02-25",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 620,
+    "second_dose": 1073
+  },
+  {
+    "Date": "2021-02-25",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 591,
+    "second_dose": 734
+  },
+  {
+    "Date": "2021-02-25",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 90,
+    "second_dose": 717
+  },
+  {
+    "Date": "2021-02-25",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 262,
+    "second_dose": 538
+  },
+  {
+    "Date": "2021-02-25",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 244,
+    "second_dose": 1110
+  },
+  {
+    "Date": "2021-02-24",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 725,
+    "second_dose": 757
+  },
+  {
+    "Date": "2021-02-24",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1180,
+    "second_dose": 1430
+  },
+  {
+    "Date": "2021-02-24",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 860,
+    "second_dose": 1215
+  },
+  {
+    "Date": "2021-02-24",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 707,
+    "second_dose": 730
+  },
+  {
+    "Date": "2021-02-24",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1091,
+    "second_dose": 677
+  },
+  {
+    "Date": "2021-02-24",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 537,
+    "second_dose": 609
+  },
+  {
+    "Date": "2021-02-24",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 421,
+    "second_dose": 678
+  },
+  {
+    "Date": "2021-02-24",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 627,
+    "second_dose": 724
+  },
+  {
+    "Date": "2021-02-23",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1008,
+    "second_dose": 780
+  },
+  {
+    "Date": "2021-02-23",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1214,
+    "second_dose": 1246
+  },
+  {
+    "Date": "2021-02-23",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 655,
+    "second_dose": 1138
+  },
+  {
+    "Date": "2021-02-23",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 623,
+    "second_dose": 592
+  },
+  {
+    "Date": "2021-02-23",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 834,
+    "second_dose": 872
+  },
+  {
+    "Date": "2021-02-23",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 746,
+    "second_dose": 630
+  },
+  {
+    "Date": "2021-02-23",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 466,
+    "second_dose": 736
+  },
+  {
+    "Date": "2021-02-23",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 605,
+    "second_dose": 567
+  },
+  {
+    "Date": "2021-02-22",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1042,
+    "second_dose": 847
+  },
+  {
+    "Date": "2021-02-22",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1083,
+    "second_dose": 1195
+  },
+  {
+    "Date": "2021-02-22",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 740,
+    "second_dose": 1421
+  },
+  {
+    "Date": "2021-02-22",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 802,
+    "second_dose": 881
+  },
+  {
+    "Date": "2021-02-22",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1038,
+    "second_dose": 863
+  },
+  {
+    "Date": "2021-02-22",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 241,
+    "second_dose": 599
+  },
+  {
+    "Date": "2021-02-22",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 266,
+    "second_dose": 360
+  },
+  {
+    "Date": "2021-02-22",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 414,
+    "second_dose": 724
+  },
+  {
+    "Date": "2021-02-21",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 549,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-21",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1267,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-21",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 580,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-21",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 236,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-21",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 670,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-21",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 644,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-21",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1330,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-21",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1040,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-20",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 579,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-20",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1074,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-20",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 630,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-20",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 214,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-20",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 560,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-20",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 926,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-20",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1000,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-20",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1377,
+    "second_dose": 283
+  },
+  {
+    "Date": "2021-02-19",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 820,
+    "second_dose": 564
+  },
+  {
+    "Date": "2021-02-19",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1242,
+    "second_dose": 1395
+  },
+  {
+    "Date": "2021-02-19",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 680,
+    "second_dose": 758
+  },
+  {
+    "Date": "2021-02-19",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 862,
+    "second_dose": 752
+  },
+  {
+    "Date": "2021-02-19",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 564,
+    "second_dose": 1279
+  },
+  {
+    "Date": "2021-02-19",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 348,
+    "second_dose": 677
+  },
+  {
+    "Date": "2021-02-19",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 697,
+    "second_dose": 679
+  },
+  {
+    "Date": "2021-02-19",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1120,
+    "second_dose": 740
+  },
+  {
+    "Date": "2021-02-18",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 995,
+    "second_dose": 535
+  },
+  {
+    "Date": "2021-02-18",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 822,
+    "second_dose": 865
+  },
+  {
+    "Date": "2021-02-18",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 98,
+    "second_dose": 598
+  },
+  {
+    "Date": "2021-02-18",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 443,
+    "second_dose": 955
+  },
+  {
+    "Date": "2021-02-18",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1233,
+    "second_dose": 1281
+  },
+  {
+    "Date": "2021-02-18",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 228,
+    "second_dose": 960
+  },
+  {
+    "Date": "2021-02-18",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 348,
+    "second_dose": 698
+  },
+  {
+    "Date": "2021-02-18",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 427,
+    "second_dose": 705
+  },
+  {
+    "Date": "2021-02-17",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 541,
+    "second_dose": 403
+  },
+  {
+    "Date": "2021-02-17",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1267,
+    "second_dose": 924
+  },
+  {
+    "Date": "2021-02-17",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 462,
+    "second_dose": 811
+  },
+  {
+    "Date": "2021-02-17",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1088,
+    "second_dose": 339
+  },
+  {
+    "Date": "2021-02-17",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 605,
+    "second_dose": 1437
+  },
+  {
+    "Date": "2021-02-17",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 655,
+    "second_dose": 898
+  },
+  {
+    "Date": "2021-02-17",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 220,
+    "second_dose": 562
+  },
+  {
+    "Date": "2021-02-17",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 722,
+    "second_dose": 684
+  },
+  {
+    "Date": "2021-02-16",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 701,
+    "second_dose": 723
+  },
+  {
+    "Date": "2021-02-16",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1164,
+    "second_dose": 1152
+  },
+  {
+    "Date": "2021-02-16",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 329,
+    "second_dose": 863
+  },
+  {
+    "Date": "2021-02-16",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1127,
+    "second_dose": 337
+  },
+  {
+    "Date": "2021-02-16",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 379,
+    "second_dose": 1475
+  },
+  {
+    "Date": "2021-02-16",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 208,
+    "second_dose": 566
+  },
+  {
+    "Date": "2021-02-16",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 217,
+    "second_dose": 577
+  },
+  {
+    "Date": "2021-02-16",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 859,
+    "second_dose": 655
+  },
+  {
+    "Date": "2021-02-15",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 710,
+    "second_dose": 632
+  },
+  {
+    "Date": "2021-02-15",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1427,
+    "second_dose": 1052
+  },
+  {
+    "Date": "2021-02-15",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 2368,
+    "second_dose": 859
+  },
+  {
+    "Date": "2021-02-15",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 810,
+    "second_dose": 170
+  },
+  {
+    "Date": "2021-02-15",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 401,
+    "second_dose": 1285
+  },
+  {
+    "Date": "2021-02-15",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 49,
+    "second_dose": 712
+  },
+  {
+    "Date": "2021-02-15",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 283,
+    "second_dose": 1211
+  },
+  {
+    "Date": "2021-02-15",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 678,
+    "second_dose": 876
+  },
+  {
+    "Date": "2021-02-14",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-14",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1687,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-14",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-14",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 990,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-14",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 2785,
+    "second_dose": 205
+  },
+  {
+    "Date": "2021-02-14",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 3048,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-14",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 2093,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-13",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 0,
+    "second_dose": 156
+  },
+  {
+    "Date": "2021-02-13",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1706,
+    "second_dose": 23
+  },
+  {
+    "Date": "2021-02-13",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 840,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-13",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 114,
+    "second_dose": 66
+  },
+  {
+    "Date": "2021-02-13",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1230,
+    "second_dose": 174
+  },
+  {
+    "Date": "2021-02-12",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1012,
+    "second_dose": 660
+  },
+  {
+    "Date": "2021-02-12",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1196,
+    "second_dose": 1085
+  },
+  {
+    "Date": "2021-02-12",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 992,
+    "second_dose": 598
+  },
+  {
+    "Date": "2021-02-12",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 722,
+    "second_dose": 748
+  },
+  {
+    "Date": "2021-02-12",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1238,
+    "second_dose": 862
+  },
+  {
+    "Date": "2021-02-12",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1057,
+    "second_dose": 954
+  },
+  {
+    "Date": "2021-02-12",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 789,
+    "second_dose": 615
+  },
+  {
+    "Date": "2021-02-12",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 689,
+    "second_dose": 871
+  },
+  {
+    "Date": "2021-02-11",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1004,
+    "second_dose": 723
+  },
+  {
+    "Date": "2021-02-11",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1087,
+    "second_dose": 1192
+  },
+  {
+    "Date": "2021-02-11",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 776,
+    "second_dose": 764
+  },
+  {
+    "Date": "2021-02-11",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1462,
+    "second_dose": 915
+  },
+  {
+    "Date": "2021-02-11",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 837,
+    "second_dose": 875
+  },
+  {
+    "Date": "2021-02-11",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 608,
+    "second_dose": 546
+  },
+  {
+    "Date": "2021-02-11",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 790,
+    "second_dose": 607
+  },
+  {
+    "Date": "2021-02-11",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 625,
+    "second_dose": 979
+  },
+  {
+    "Date": "2021-02-10",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1012,
+    "second_dose": 642
+  },
+  {
+    "Date": "2021-02-10",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1151,
+    "second_dose": 1191
+  },
+  {
+    "Date": "2021-02-10",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 596,
+    "second_dose": 1042
+  },
+  {
+    "Date": "2021-02-10",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 835,
+    "second_dose": 869
+  },
+  {
+    "Date": "2021-02-10",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 940,
+    "second_dose": 886
+  },
+  {
+    "Date": "2021-02-10",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 398,
+    "second_dose": 500
+  },
+  {
+    "Date": "2021-02-10",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 768,
+    "second_dose": 612
+  },
+  {
+    "Date": "2021-02-10",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 855,
+    "second_dose": 764
+  },
+  {
+    "Date": "2021-02-09",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1064,
+    "second_dose": 680
+  },
+  {
+    "Date": "2021-02-09",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 969,
+    "second_dose": 1161
+  },
+  {
+    "Date": "2021-02-09",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 659,
+    "second_dose": 1489
+  },
+  {
+    "Date": "2021-02-09",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 772,
+    "second_dose": 1062
+  },
+  {
+    "Date": "2021-02-09",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1247,
+    "second_dose": 783
+  },
+  {
+    "Date": "2021-02-09",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1031,
+    "second_dose": 826
+  },
+  {
+    "Date": "2021-02-09",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 687,
+    "second_dose": 609
+  },
+  {
+    "Date": "2021-02-09",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 890,
+    "second_dose": 930
+  },
+  {
+    "Date": "2021-02-08",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1060,
+    "second_dose": 611
+  },
+  {
+    "Date": "2021-02-08",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 841,
+    "second_dose": 1098
+  },
+  {
+    "Date": "2021-02-08",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1155,
+    "second_dose": 501
+  },
+  {
+    "Date": "2021-02-08",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 556,
+    "second_dose": 200
+  },
+  {
+    "Date": "2021-02-08",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1681,
+    "second_dose": 25
+  },
+  {
+    "Date": "2021-02-08",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 368,
+    "second_dose": 424
+  },
+  {
+    "Date": "2021-02-08",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 994,
+    "second_dose": 290
+  },
+  {
+    "Date": "2021-02-08",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 741,
+    "second_dose": 737
+  },
+  {
+    "Date": "2021-02-07",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-07",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 180,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-07",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-07",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-07",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-07",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-07",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-02-06",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 283,
+    "second_dose": 29
+  },
+  {
+    "Date": "2021-02-06",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 24,
+    "second_dose": 54
+  },
+  {
+    "Date": "2021-02-06",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1657,
+    "second_dose": 239
+  },
+  {
+    "Date": "2021-02-06",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 124,
+    "second_dose": 374
+  },
+  {
+    "Date": "2021-02-05",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 830,
+    "second_dose": 884
+  },
+  {
+    "Date": "2021-02-05",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1001,
+    "second_dose": 1522
+  },
+  {
+    "Date": "2021-02-05",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1104,
+    "second_dose": 910
+  },
+  {
+    "Date": "2021-02-05",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 998,
+    "second_dose": 699
+  },
+  {
+    "Date": "2021-02-05",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1483,
+    "second_dose": 459
+  },
+  {
+    "Date": "2021-02-05",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 917,
+    "second_dose": 916
+  },
+  {
+    "Date": "2021-02-05",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1025,
+    "second_dose": 324
+  },
+  {
+    "Date": "2021-02-05",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1022,
+    "second_dose": 951
+  },
+  {
+    "Date": "2021-02-04",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 993,
+    "second_dose": 631
+  },
+  {
+    "Date": "2021-02-04",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 895,
+    "second_dose": 1347
+  },
+  {
+    "Date": "2021-02-04",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1141,
+    "second_dose": 983
+  },
+  {
+    "Date": "2021-02-04",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1233,
+    "second_dose": 825
+  },
+  {
+    "Date": "2021-02-04",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1269,
+    "second_dose": 753
+  },
+  {
+    "Date": "2021-02-04",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 822,
+    "second_dose": 270
+  },
+  {
+    "Date": "2021-02-04",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1147,
+    "second_dose": 318
+  },
+  {
+    "Date": "2021-02-04",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1370,
+    "second_dose": 424
+  },
+  {
+    "Date": "2021-02-03",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 914,
+    "second_dose": 214
+  },
+  {
+    "Date": "2021-02-03",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1168,
+    "second_dose": 288
+  },
+  {
+    "Date": "2021-02-03",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1547,
+    "second_dose": 264
+  },
+  {
+    "Date": "2021-02-03",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 906,
+    "second_dose": 384
+  },
+  {
+    "Date": "2021-02-03",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1114,
+    "second_dose": 542
+  },
+  {
+    "Date": "2021-02-03",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1172,
+    "second_dose": 301
+  },
+  {
+    "Date": "2021-02-03",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1405,
+    "second_dose": 107
+  },
+  {
+    "Date": "2021-02-03",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1149,
+    "second_dose": 230
+  },
+  {
+    "Date": "2021-02-02",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 968,
+    "second_dose": 399
+  },
+  {
+    "Date": "2021-02-02",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1014,
+    "second_dose": 1313
+  },
+  {
+    "Date": "2021-02-02",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1634,
+    "second_dose": 420
+  },
+  {
+    "Date": "2021-02-02",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 820,
+    "second_dose": 398
+  },
+  {
+    "Date": "2021-02-02",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1407,
+    "second_dose": 579
+  },
+  {
+    "Date": "2021-02-02",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 401,
+    "second_dose": 1
+  },
+  {
+    "Date": "2021-02-02",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 1283,
+    "second_dose": 133
+  },
+  {
+    "Date": "2021-02-02",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1285,
+    "second_dose": 202
+  },
+  {
+    "Date": "2021-02-01",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 940,
+    "second_dose": 344
+  },
+  {
+    "Date": "2021-02-01",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 769,
+    "second_dose": 983
+  },
+  {
+    "Date": "2021-02-01",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1487,
+    "second_dose": 913
+  },
+  {
+    "Date": "2021-02-01",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 865,
+    "second_dose": 220
+  },
+  {
+    "Date": "2021-02-01",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1840,
+    "second_dose": 44
+  },
+  {
+    "Date": "2021-02-01",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 807,
+    "second_dose": 14
+  },
+  {
+    "Date": "2021-02-01",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 803,
+    "second_dose": 207
+  },
+  {
+    "Date": "2021-02-01",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1340,
+    "second_dose": 184
+  },
+  {
+    "Date": "2021-01-31",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-31",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 60,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-31",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-31",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 53,
+    "second_dose": 168
+  },
+  {
+    "Date": "2021-01-31",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-31",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-31",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-30",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 180,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-30",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 105,
+    "second_dose": 3
+  },
+  {
+    "Date": "2021-01-30",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 408,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-30",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 696,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-29",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 817,
+    "second_dose": 371
+  },
+  {
+    "Date": "2021-01-29",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1742,
+    "second_dose": 419
+  },
+  {
+    "Date": "2021-01-29",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1717,
+    "second_dose": 328
+  },
+  {
+    "Date": "2021-01-29",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 824,
+    "second_dose": 626
+  },
+  {
+    "Date": "2021-01-29",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1110,
+    "second_dose": 468
+  },
+  {
+    "Date": "2021-01-29",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 1443,
+    "second_dose": 4
+  },
+  {
+    "Date": "2021-01-29",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 553,
+    "second_dose": 118
+  },
+  {
+    "Date": "2021-01-29",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1259,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-28",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1020,
+    "second_dose": 192
+  },
+  {
+    "Date": "2021-01-28",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1539,
+    "second_dose": 433
+  },
+  {
+    "Date": "2021-01-28",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 769,
+    "second_dose": 5
+  },
+  {
+    "Date": "2021-01-28",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1115,
+    "second_dose": 443
+  },
+  {
+    "Date": "2021-01-28",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 979,
+    "second_dose": 449
+  },
+  {
+    "Date": "2021-01-28",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 810,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-28",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 928,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-28",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1190,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-27",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 724,
+    "second_dose": 3
+  },
+  {
+    "Date": "2021-01-27",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1397,
+    "second_dose": 39
+  },
+  {
+    "Date": "2021-01-27",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1089,
+    "second_dose": 81
+  },
+  {
+    "Date": "2021-01-27",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 779,
+    "second_dose": 147
+  },
+  {
+    "Date": "2021-01-27",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 755,
+    "second_dose": 1
+  },
+  {
+    "Date": "2021-01-27",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 743,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-27",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 693,
+    "second_dose": 1
+  },
+  {
+    "Date": "2021-01-27",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 611,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-26",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 879,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-26",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1200,
+    "second_dose": 26
+  },
+  {
+    "Date": "2021-01-26",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1281,
+    "second_dose": 117
+  },
+  {
+    "Date": "2021-01-26",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 791,
+    "second_dose": 113
+  },
+  {
+    "Date": "2021-01-26",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 900,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-26",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 498,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-26",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 847,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-26",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 576,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-25",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 824,
+    "second_dose": 135
+  },
+  {
+    "Date": "2021-01-25",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1164,
+    "second_dose": 29
+  },
+  {
+    "Date": "2021-01-25",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1307,
+    "second_dose": 2028
+  },
+  {
+    "Date": "2021-01-25",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 799,
+    "second_dose": 100
+  },
+  {
+    "Date": "2021-01-25",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 822,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-25",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 378,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-25",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 621,
+    "second_dose": 1
+  },
+  {
+    "Date": "2021-01-25",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 753,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-24",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-24",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-24",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-24",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-24",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-24",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-23",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 54,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-23",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 222,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-22",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 382,
+    "second_dose": 6
+  },
+  {
+    "Date": "2021-01-22",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1069,
+    "second_dose": 3
+  },
+  {
+    "Date": "2021-01-22",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1015,
+    "second_dose": 20
+  },
+  {
+    "Date": "2021-01-22",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 609,
+    "second_dose": 104
+  },
+  {
+    "Date": "2021-01-22",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1188,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-22",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 991,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-22",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 510,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-22",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 873,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-21",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 228,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-21",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 728,
+    "second_dose": 476
+  },
+  {
+    "Date": "2021-01-21",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 690,
+    "second_dose": 36
+  },
+  {
+    "Date": "2021-01-21",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 1614,
+    "second_dose": 136
+  },
+  {
+    "Date": "2021-01-21",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1368,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-21",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 691,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-21",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 550,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-21",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 802,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-20",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 564,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-20",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1134,
+    "second_dose": 474
+  },
+  {
+    "Date": "2021-01-20",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 561,
+    "second_dose": 48
+  },
+  {
+    "Date": "2021-01-20",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 657,
+    "second_dose": 326
+  },
+  {
+    "Date": "2021-01-20",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1455,
+    "second_dose": 15
+  },
+  {
+    "Date": "2021-01-20",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 908,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-20",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 865,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-20",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 874,
+    "second_dose": 1
+  },
+  {
+    "Date": "2021-01-19",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 795,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-19",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 878,
+    "second_dose": 403
+  },
+  {
+    "Date": "2021-01-19",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1301,
+    "second_dose": 53
+  },
+  {
+    "Date": "2021-01-19",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 312,
+    "second_dose": 5
+  },
+  {
+    "Date": "2021-01-19",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1653,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-19",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 662,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-19",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 871,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-19",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1018,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-18",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1123,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-18",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1124,
+    "second_dose": 455
+  },
+  {
+    "Date": "2021-01-18",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1470,
+    "second_dose": 45
+  },
+  {
+    "Date": "2021-01-18",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 433,
+    "second_dose": 82
+  },
+  {
+    "Date": "2021-01-18",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1446,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-18",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 677,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-18",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 699,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-18",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1414,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-17",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-17",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 54,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-16",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 371,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-16",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 60,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-16",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 193,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-16",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 66,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-16",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 420,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-16",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 120,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-16",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 132,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-15",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 974,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-15",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1393,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-15",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1264,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-15",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 565,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-15",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1125,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-15",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 753,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-15",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 941,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-15",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 839,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-14",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 690,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-14",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1464,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-14",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 794,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-14",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 926,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-14",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1102,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-14",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 564,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-14",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 887,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-14",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 1029,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-13",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 660,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-13",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1250,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-13",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 922,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-13",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 634,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-13",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1245,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-13",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 635,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-13",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 677,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-13",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 727,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-12",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 614,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-12",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1402,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-12",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 4981,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-12",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 738,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-12",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 990,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-12",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 536,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-12",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 540,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-12",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 765,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-11",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 460,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-11",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1195,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-11",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 213,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-11",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 863,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-11",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-11",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 471,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-11",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 300,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-11",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 553,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-10",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 2845,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-10",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-10",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 200,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-09",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 245,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-09",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 195,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-09",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 143,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-09",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 90,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-09",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 260,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-09",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 40,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-09",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 636,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-08",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 555,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-08",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1939,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-08",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 968,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-08",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 560,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-08",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 871,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-08",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 839,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-08",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 535,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-08",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 774,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-07",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 450,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-07",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 1453,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-07",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 1156,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-07",
+    "Region": "Nitriansky kraj",
+    "Region_code": "SK023",
+    "first_dose": 685,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-07",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 1262,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-07",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 989,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-07",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 532,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-07",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 516,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-06",
+    "Region": "Banskobystrický kraj",
+    "Region_code": "SK032",
+    "first_dose": 1515,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-06",
+    "Region": "Bratislavský kraj",
+    "Region_code": "SK010",
+    "first_dose": 3894,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-06",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 398,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-06",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 25,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-06",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 100,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-06",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 261,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-05",
+    "Region": "Košický kraj",
+    "Region_code": "SK042",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-05",
+    "Region": "Prešovský kraj",
+    "Region_code": "SK041",
+    "first_dose": 60,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-05",
+    "Region": "Trenčiansky kraj",
+    "Region_code": "SK022",
+    "first_dose": 0,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-05",
+    "Region": "Trnavský kraj",
+    "Region_code": "SK021",
+    "first_dose": 135,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-05",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 230,
+    "second_dose": 0
+  },
+  {
+    "Date": "2021-01-04",
+    "Region": "Žilinský kraj",
+    "Region_code": "SK031",
+    "first_dose": 0,
+    "second_dose": 0
+  }
+]

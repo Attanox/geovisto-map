@@ -1,0 +1,569 @@
+[
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "RUS",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "RUS",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "RUS",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "RUS",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "RUS",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "RUS",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "RUS",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "RUS",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "RUS",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "RUS",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "RUS",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "RUS",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "RUS",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "RUS",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.12 KiB, packets: 42.",
+    "source": "192.168.70.53",
+    "country": "USA",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:43:56",
+    "detail": "Link-local Multicast Name Resolution, attempts: 22, transferred: 2.94 KiB, packets: 42.",
+    "source": "fe80::cde3:2b02:3dd5:b561",
+    "country": "AFG",
+    "targets": "RUS"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "All Routers Address, All MLDv2-capable routers, multicast, All_DHCP_Relay_Agents_and_Servers, Link-local Multicast Name Resolution, mDNSv6, attempts: 28, transferred: 11.16 KiB, packets: 137.",
+    "source": "fe80::7c4e:fc93:5666:b756",
+    "country": "FRA",
+    "targets": "RUS, MUL, MUL, MUL, MUL, MUL"
+  },
+  {
+    "time": "2019-12-18 16:42:52",
+    "detail": "Link-local Multicast Name Resolution, mDNS, attempts: 27, transferred: 6.63 KiB, packets: 108.",
+    "source": "192.168.120.209",
+    "country": "CZE",
+    "targets": "RUS, MUL"
+  },
+  {
+    "time": "2019-12-18 16:41:20",
+    "detail": "Unavailable services (TCP/9000, cslistener). Unsuccessful traffic - clients: 1, rejected connections: 0, connections without response: 348. Successful traffic - clients: 0, connections: 0.",
+    "source": "192.168.120.210",
+    "country": "RUS",
+    "targets": "RUS"
+  }
+]

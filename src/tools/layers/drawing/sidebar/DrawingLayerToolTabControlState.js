@@ -45,7 +45,12 @@ export const STROKES = [
 export const ADMIN_LEVELS = [
   { label: 'State', value: 2 },
   { label: 'Province', value: 4, selected: true },
-  { label: 'Region (does not work with every country)', value: 6 },
+  { label: '5 (depends on country)', value: 5 },
+  { label: '6 (depends on country)', value: 6 },
+  { label: '7 (depends on country)', value: 7 },
+  { label: '8 (depends on country)', value: 8 },
+  { label: '9 (depends on country)', value: 9 },
+  { label: '10 (depends on country)', value: 10 },
 ];
 
 /**
@@ -100,7 +105,46 @@ class DrawingLayerToolTabControlState extends AbstractLayerToolTabControlState {
     this.countryCode = '';
     this.adminLevel = ADMIN_LEVELS[1].value;
     this.highQuality = false;
+
+    this.filtersAmount = 0;
+    this.filtersKeys = [];
+    this.filtersValues = [];
   }
+
+  clearFilters() {
+    this.filtersAmount = 0;
+    this.filtersKeys = [];
+    this.filtersValues = [];
+  }
+
+  getFiltersKey(idx) {
+    const key = this.filtersKeys[idx];
+    return key;
+  }
+  getFiltersValue(idx) {
+    const value = this.filtersValues[idx];
+    return value;
+  }
+  setFiltersKey(idx, value) {
+    if (idx > this.filtersAmount) return;
+    this.filtersKeys[idx] = value;
+  }
+  setFiltersValue(idx, value) {
+    if (idx > this.filtersAmount) return;
+    this.filtersValues[idx] = value;
+  }
+
+  increaseFilters = () => {
+    this.filtersAmount += 1;
+    this.filtersKeys.push('');
+    this.filtersValues.push('');
+  };
+  decreaseFilters = () => {
+    if (this.filtersAmount === 0) return;
+    this.filtersAmount -= 1;
+    this.filtersKeys.pop();
+    this.filtersValues.pop();
+  };
 
   setCountryCode(val) {
     this.countryCode = val;
@@ -135,6 +179,7 @@ class DrawingLayerToolTabControlState extends AbstractLayerToolTabControlState {
   setEnabledEl(val) {
     this.enabledEl?.disable();
     this.enabledEl = val;
+    // this.tool.state.setSelectedLayer(null);
   }
 
   getIdentifierType() {
@@ -190,7 +235,19 @@ class DrawingLayerToolTabControlState extends AbstractLayerToolTabControlState {
     const selectedEl = this._getSelected();
     this.setSelectedColor(color);
     if (selectedEl?.setStyle) selectedEl.setStyle({ color });
-    // this.tabControl.redrawTabContent(selectedEl?.layerType);
+    this._getExtraSelected().forEach((layer) => {
+      layer?.setStyle({ color });
+    });
+  };
+
+  changeWeightAction = (e) => {
+    const weight = Number(e.target.value);
+    const selectedEl = this._getSelected();
+    this.setSelectedStroke(weight);
+    if (selectedEl?.setStyle) selectedEl.setStyle({ weight });
+    this._getExtraSelected().forEach((layer) => {
+      layer?.setStyle({ weight });
+    });
   };
 
   changeIconOpts = (iconOpt = {}) => {
@@ -212,6 +269,11 @@ class DrawingLayerToolTabControlState extends AbstractLayerToolTabControlState {
 
     const markerIcon = new L.Icon(newIconOptions);
     if (marker) marker.setIcon(markerIcon);
+    this.tool.highlightElement(marker);
+    this._getExtraSelected().forEach((layer) => {
+      layer?.setIcon(markerIcon);
+      this.tool.highlightElement(layer);
+    });
     if (enabledEl?.type === 'marker') enabledEl.setIconOptions(markerIcon);
 
     return marker;
@@ -222,6 +284,14 @@ class DrawingLayerToolTabControlState extends AbstractLayerToolTabControlState {
 
     this.setSelectedIcon(icon);
     this.tabControl.redrawTabContent('marker');
+  };
+
+  changeIconAnchor = (val, coordinate) => {
+    const selectedEl = this.enabledEl || this._getSelected();
+    let iconOptions = selectedEl?.options?.icon?.options || {};
+    const iconAnchor = iconOptions.iconAnchor || iconStarter.iconAnchor;
+    iconAnchor[coordinate] = val;
+    this.changeIconOpts({ iconAnchor });
   };
 
   changeDescriptionAction = (e) => {
@@ -239,31 +309,38 @@ class DrawingLayerToolTabControlState extends AbstractLayerToolTabControlState {
       selectedEl.bindPopup(modInputText, { closeOnClick: false, autoClose: false });
     }
     // store for import
-    selectedEl.popupContent = modInputText;
-    // this.setSelectedColor(color);
+    console.log({ selectedEl });
+    if (selectedEl) selectedEl.popupContent = modInputText;
     if (selectedEl?.setStyle) selectedEl.setStyle(modInputText);
   };
 
-  changeWeightAction = (e) => {
-    const weight = Number(e.target.value);
+  callIdentifierChange = (haveToCheckFilters = false) => {
+    if (haveToCheckFilters && this.filtersAmount === 0) return;
     const selectedEl = this._getSelected();
-    this.setSelectedStroke(weight);
-    if (selectedEl?.setStyle) selectedEl.setStyle({ weight });
+    this.changeIdentifierAction(selectedEl?.identifier);
   };
 
-  changeIdentifierAction = (e) => {
-    const id = e.target.value;
+  changeIdentifierAction = (id) => {
+    if (!id) return;
     const selectedEl = this._getSelected();
     if (selectedEl) selectedEl.identifier = id;
 
     const data = this.getTool()?.getState()?.map?.state?.data;
 
-    const found = data.find(({ identifier }) => identifier === id);
+    let filteredData = data;
+    this.filtersKeys.forEach((key, idx) => {
+      filteredData = filteredData.filter((d) => String(d[key]) === this.filtersValues[idx]);
+    });
+
+    const idType = this.identifierType;
+    const found = filteredData.find((d) => String(d[idType]) === id);
 
     let popupText = '';
-    Object.keys(found).forEach((key) => {
-      popupText += `${key}: ${found[key]}<br />`;
-    });
+    if (found) {
+      Object.keys(found).forEach((key) => {
+        popupText += `${key}: ${found[key]}<br />`;
+      });
+    }
 
     this.changeDesc(popupText);
     this.tabControl.redrawTabContent(selectedEl?.layerType);
@@ -381,16 +458,12 @@ class DrawingLayerToolTabControlState extends AbstractLayerToolTabControlState {
     this.setAdminLevel(val);
   };
 
-  changeIconAnchor = (val, coordinate) => {
-    const selectedEl = this.enabledEl || this._getSelected();
-    let iconOptions = selectedEl?.options?.icon?.options || {};
-    const iconAnchor = iconOptions.iconAnchor || iconStarter.iconAnchor;
-    iconAnchor[coordinate] = val;
-    this.changeIconOpts({ iconAnchor });
-  };
-
   _getSelected() {
     return this.getTool().getState().selectedLayer;
+  }
+
+  _getExtraSelected() {
+    return this.getTool().getState().extraSelected;
   }
 }
 export default DrawingLayerToolTabControlState;

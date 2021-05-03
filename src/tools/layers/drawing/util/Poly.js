@@ -8,7 +8,6 @@ import 'leaflet/dist/leaflet.css';
 import { STROKES, COLORS } from '../sidebar/DrawingLayerToolTabControlState';
 
 import '../components/Knife';
-import '../components/Edit';
 
 import * as turf from '@turf/turf';
 
@@ -70,6 +69,21 @@ export const slicePoly = (map, sidebar) => {
   }
 
   sidebar.getState().setPatherStatus(!patherStatus);
+};
+
+export const dividePoly = (map, sidebar) => {
+  const x = new L.Draw.Slice(map, {
+    shapeOptions: {
+      color: '#333',
+      weight: 3,
+      draggable: true,
+      transform: true,
+      guideLayers: sidebar.getState().guideLayers,
+    },
+  });
+  x.enable();
+  sidebar.getState().setEnabledEl(x);
+  return x;
 };
 
 export const getGeoJSONFeatureFromLayer = (layer) => {
