@@ -1,5 +1,0 @@
-{
-  "presets": ["@babel/env", "@babel/preset-react"],
-  "plugins": ["@babel/plugin-transform-runtime"],
-  "exclude": "**/*.{spec,test,stories}.{js,jsx,tsx,ts}"
-}

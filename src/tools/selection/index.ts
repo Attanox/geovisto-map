@@ -1,9 +1,0 @@
-export { default as SelectionTool } from './SelectionTool';
-export { default as SelectionToolDefaults } from './SelectionToolDefaults';
-export { default as SelectionToolState } from './SelectionToolState';
-export { default as SelectionToolEvent } from './model/event/SelectionToolEvent';
-export { default as AbstractMapSelection } from './model/item/abstract/AbstractMapSelection';
-export { default as MapSelection } from './model/item/generic/MapSelection';
-export { default as SelectionToolTabFragment } from './sidebar/SelectionToolTabFragment';
-export { default as SelectionToolTabFragmentDefaults } from './sidebar/SelectionToolTabFragmentDefaults';
-export { default as SelectionToolTabFragmentState } from './sidebar/SelectionToolTabFragmentState';
