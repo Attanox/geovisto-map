@@ -31,7 +31,8 @@ import './Demo.scss';
 
 import Polygons from '../../static/geo/country_polygons.json'
 import Centroids from '../../static/geo/country_centroids.json'
-import JsonData from '../../static/data/demo1.json'
+import JsonDataDemo1 from '../../static/data/demo1.json'
+import JsonDataDemo2 from '../../static/data/demo2.json'
 import JsonConfig from '../../static/config/config.json'
 import GeojsonConfig from '../../static/geo/map.json'
 
@@ -58,7 +59,7 @@ class Demo extends Component {
     this.centroids = Centroids;
 
     // // implicit file
-    const jsonData = JsonData;
+    const jsonData = JsonDataDemo1;
 
     // // implicit config
     const jsonConfig = JsonConfig;
@@ -175,17 +176,18 @@ class Demo extends Component {
       if (!document.getElementById(C_ID_check_data).checked || data.json == undefined) {
         const fileName = document.getElementById(C_ID_select_data).value;
         console.log(fileName);
-        data.json = React.lazy(() => import(PREFIX + '/static/data/' + fileName));
+        if (fileName === 'demo1.json') data.json = JsonDataDemo1
+        if (fileName === 'demo2.json') data.json = JsonDataDemo2
       }
 
       // process config json
       if (!document.getElementById(C_ID_check_config).checked || config.json == undefined) {
-        config.json = React.lazy(() => import(PREFIX + '/static/config/config.json'));
+        config.json = JsonConfig;
       }
 
       // process geojson
       if (!document.getElementById(C_ID_check_geojson).checked || geo.json == undefined) {
-        geo.json = React.lazy(() => import(PREFIX + '/static/geo/map.json'));
+        geo.json = GeojsonConfig;
       }
 
       // update state
