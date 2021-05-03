@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "license": "MIT",
+  "homepage": "https://attanox.github.io/geovisto-map/",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "style": "dist/index.css",
@@ -14,12 +15,14 @@
     "node": ">=10"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b feature-15-geospatial-objects-authoring -d build",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
     "clean": "rimraf dist",
     "storybook": "start-storybook -p 6006",
     "storybook:build": "build-storybook",
-    "build": "rollup -c",
-    "build:watch": "rollup -c -w",
-    "start": "npm run storybook"
+    "build:watch": "rollup -c -w"
   },
   "peerDependencies": {
     "react": "^16.13.1",
@@ -42,16 +45,18 @@
     "@typescript-eslint/eslint-plugin": "^4.13.0",
     "@typescript-eslint/parser": "^4.13.0",
     "autoprefixer": "^10.2.1",
-    "babel-loader": "^8.2.2",
     "css-loader": "^5.0.1",
     "eslint": "^7.17.0",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^3.1.0",
     "json-loader": "^0.5.7",
     "node-sass": "^5.0.0",
     "postcss-copy": "^7.1.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
+    "react-app-rewired": "^2.1.8",
     "react-dom": "^16.13.1",
+    "react-scripts": "^4.0.3",
     "rimraf": "^3.0.2",
     "rollup": "^2.36.1",
     "rollup-plugin-peer-deps-external": "^2.2.4",
@@ -95,5 +100,17 @@
     "proj4": "^2.7.2",
     "proj4leaflet": "^1.0.2",
     "rfdc": "^1.1.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

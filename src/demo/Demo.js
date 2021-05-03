@@ -29,6 +29,12 @@ import FiltersManager from '../tools/filters/model/generic/FiltersManager';
 import 'font-awesome/css/font-awesome.min.css';
 import './Demo.scss';
 
+import Polygons from '../../static/geo/country_polygons.json'
+import Centroids from '../../static/geo/country_centroids.json'
+import JsonData from '../../static/data/demo1.json'
+import JsonConfig from '../../static/config/config.json'
+import GeojsonConfig from '../../static/geo/map.json'
+
 /* example of screen component with grid layout and card wrapper usage */
 
 const C_ID_select_data = 'leaflet-combined-map-select-data';
@@ -41,22 +47,24 @@ const C_ID_input_geojson = 'leaflet-combined-map-input-geojson';
 const C_ID_input_import = 'leaflet-combined-map-input-import';
 const C_ID_input_export = 'leaflet-combined-map-input-export';
 
+const PREFIX = '../..'
+
 class Demo extends Component {
   constructor(props) {
     super(props);
 
     // initialize geo objects
-    this.polygons = require('/static/geo/country_polygons.json');
-    this.centroids = require('/static/geo/country_centroids.json');
+    this.polygons = Polygons;
+    this.centroids = Centroids;
 
     // // implicit file
-    const jsonData = require('/static/data/demo1.json');
+    const jsonData = JsonData;
 
     // // implicit config
-    const jsonConfig = require('/static/config/config.json');
+    const jsonConfig = JsonConfig;
 
     // // implicitgeojson
-    const geojsonConfig = require('/static/geo/map.json');
+    const geojsonConfig = GeojsonConfig;
 
     // reference to the rendered map
     this.map = React.createRef();
@@ -167,17 +175,17 @@ class Demo extends Component {
       if (!document.getElementById(C_ID_check_data).checked || data.json == undefined) {
         const fileName = document.getElementById(C_ID_select_data).value;
         console.log(fileName);
-        data.json = require('/static/data/' + fileName);
+        data.json = React.lazy(() => import(PREFIX + '/static/data/' + fileName));
       }
 
       // process config json
       if (!document.getElementById(C_ID_check_config).checked || config.json == undefined) {
-        config.json = require('/static/config/config.json');
+        config.json = React.lazy(() => import(PREFIX + '/static/config/config.json'));
       }
 
       // process geojson
       if (!document.getElementById(C_ID_check_geojson).checked || geo.json == undefined) {
-        geo.json = require('/static/geo/map.json');
+        geo.json = React.lazy(() => import(PREFIX + '/static/geo/map.json'));
       }
 
       // update state
