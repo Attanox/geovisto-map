@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/geovisto-map/static/css/main.602c52db.chunk.css",
-    "main.js": "/geovisto-map/static/js/main.c6732629.chunk.js",
-    "main.js.map": "/geovisto-map/static/js/main.c6732629.chunk.js.map",
+    "main.js": "/geovisto-map/static/js/main.26a49404.chunk.js",
+    "main.js.map": "/geovisto-map/static/js/main.26a49404.chunk.js.map",
     "runtime-main.js": "/geovisto-map/static/js/runtime-main.d5fb1fbe.js",
     "runtime-main.js.map": "/geovisto-map/static/js/runtime-main.d5fb1fbe.js.map",
     "static/css/2.1271a8ed.chunk.css": "/geovisto-map/static/css/2.1271a8ed.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1271a8ed.chunk.css",
     "static/js/2.3a06224c.chunk.js",
     "static/css/main.602c52db.chunk.css",
-    "static/js/main.c6732629.chunk.js"
+    "static/js/main.26a49404.chunk.js"
   ]
 }
