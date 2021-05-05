@@ -49,20 +49,6 @@
           "checkButton": true
         },
         {
-          "tool": "geovisto-tool-layer-marker",
-          "enabled": true,
-          "name": "Marker layer settings",
-          "icon": "<i class=\"fa fa-map-marker\"></i>",
-          "checkButton": true
-        },
-        {
-          "tool": "geovisto-tool-layer-connection",
-          "enabled": true,
-          "name": "Connection layer settings",
-          "icon": "<i class=\"fa fa-road\"></i>",
-          "checkButton": true
-        },
-        {
           "tool": "geovisto-tool-layer-drawing",
           "enabled": true,
           "name": "Drawing layer settings",
